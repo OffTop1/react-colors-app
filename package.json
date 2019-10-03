@@ -2,7 +2,7 @@
   "name": "colors-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://OffTop1.github.io/react-color-app",
+  "homepage": "http://OffTop1.github.io/react-colors-app",
   "dependencies": {
     "@babel/runtime": "^7.6.0",
     "@material-ui/core": "^4.4.2",
