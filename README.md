@@ -1,3 +1,7 @@
+### React Color App
+
+Out of color ideas? React Color generator will help you quickly decide which color to choose for your project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
