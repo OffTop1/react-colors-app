@@ -11,7 +11,7 @@
     "array-move": "^2.1.0",
     "chroma-js": "^2.0.6",
     "emoji-mart": "^2.11.1",
-    "eslint": "^5.0",
+    "eslint": "^6.5.1",
     "gh-pages": "^2.1.1",
     "lodash.template": "^4.5.0",
     "mixin-deep": "^2.0.1",
