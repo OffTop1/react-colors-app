@@ -2,6 +2,10 @@
 
 Out of color ideas? React Color generator will help you quickly decide which color to choose for your project.
 
+### Deployed on Heroku
+
+https://hidden-plateau-77805.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
