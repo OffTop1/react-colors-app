@@ -4,7 +4,7 @@ Out of color ideas? React Color generator will help you quickly decide which col
 
 ### Deployed on Heroku
 
-[React Color App](https://hidden-plateau-77805.herokuapp.com/).
+Click to show [React Color App](https://hidden-plateau-77805.herokuapp.com/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
