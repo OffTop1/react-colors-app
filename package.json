@@ -26,7 +26,7 @@
     "react-scripts": "3.1.1",
     "react-sortable-hoc": "^1.10.1",
     "react-transition-group": "^4.3.0",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "typescript": "^3.7.0-dev.20191002"
   },
   "scripts": {
